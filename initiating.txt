@@ -1,0 +1,5 @@
+initiating
+excecution
+planning
+clossing
+monitoring
